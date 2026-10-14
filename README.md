@@ -7,6 +7,8 @@ Write posts in markdown. Get article pages, tag filters, reading times, RSS, a s
 **Live demo → [pixelandoak-nova.pages.dev](https://pixelandoak-nova.pages.dev)**
 **Template page → [pixelandoak.com/templates/nextjs-blog-template](https://pixelandoak.com/templates/nextjs-blog-template/)**
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhaider484991%2Fnova-nextjs-blog-template&project-name=nova-blog&repository-name=nova-blog)
+
 ![Nova screenshot](./screenshot.png)
 
 ## Features
